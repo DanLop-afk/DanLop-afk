@@ -20,3 +20,11 @@ Soy un apasionado de la tecnología y el desarrollo, aprendiendo a dominar **Git
 > *"El código limpio siempre parece haber sido escrito por alguien que se preocupa."* ✨
 
 📫 ¡Gracias por pasarte por aquí!
+
+---
+
+![Cesar Acuña](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROUoF4lkaPYwV79xFWe_0GOsrVfVfb49jgmx39TtLZjw&s=10)
+
+**Frase de mi mentor**
+
+_**"Si estudiar da frutos, entonces que estudien los arboles".**_
