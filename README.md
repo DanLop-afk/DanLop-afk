@@ -4,7 +4,6 @@ Soy un apasionado de la tecnología y el desarrollo, aprendiendo a dominar **Git
 
 ### 💻 ¿Qué herramientas uso y aprendo?
 * **Editores:** Visual Studio Code 🛠️
-* 
 * **Control de versiones:** Git y GitHub 🐙
 * **Lenguajes y estilos:** Markdown 📝
 
