@@ -23,8 +23,9 @@ Soy un apasionado de la tecnología y el desarrollo, aprendiendo a dominar **Git
 
 ---
 
-![Cesar Acuña](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROUoF4lkaPYwV79xFWe_0GOsrVfVfb49jgmx39TtLZjw&s=10)
+![Parrot.live](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5lYjhoam54ank0emx4NzR1cmlleTU5MGE4em52MnQ2Y3d2ZTZnYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/z7767kGHHQ2s/giphy.gif)
 
 **Frase de mi mentor**
 
-_**"Si estudiar da frutos, entonces que estudien los arboles".**_
+```bash
+"Si estudiar da frutos 🍎​, entonces que estudien los arboles 🌳​".
