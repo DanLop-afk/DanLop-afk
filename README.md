@@ -26,7 +26,7 @@ Soy un apasionado de la tecnología y el desarrollo, aprendiendo a dominar **Git
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5lYjhoam54ank0emx4NzR1cmlleTU5MGE4em52MnQ2Y3d2ZTZnYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/z7767kGHHQ2s/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ2MWt1ZjNma3owZDdoaXM3eXU3Y2ViOTFvbmhzYm9rcHQxODFpaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XGU4CyI27f5xBWGJlY/giphy.gif" width="250" />
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJrbHZzd2F2YTgxbDFienNueXhyMDF4MThnOWk2dnYyamN5aWg1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/giphy.gif" width="250" />
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJrbHZzd2F2YTgxbDFienNueXhyMDF4MThnOWk2dnYyamN5aWg1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.gif" width="250">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Ynk4NWJ2bXA3dGE3ZnNvY29zaGxhOGlsbGYzdGh1eGh0OXMzOTZ3biZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/KazG5bdau9pIqS90oj/giphy.gif" width="250">
